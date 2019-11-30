@@ -1,0 +1,2 @@
+include ':app', ':scratchcardlibrary'
+rootProject.name='ScratchCard Win'
